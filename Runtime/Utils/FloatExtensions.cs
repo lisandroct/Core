@@ -1,4 +1,4 @@
-﻿namespace lisandroct.Utils
+﻿namespace lisandroct.Core.Utils
 {
     public static class FloatExtensions
     {
