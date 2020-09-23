@@ -1,6 +1,6 @@
 {
   "name": "com.lisandroct.core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Core",
   "description": "Essential utils and extensions for Unity projects.",
   "unity": "2017.1",
